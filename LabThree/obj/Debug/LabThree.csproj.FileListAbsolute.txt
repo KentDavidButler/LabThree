@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\GrandCircus\LabThree\LabThree\bin\Debug\LabThree.exe.config
+C:\Users\Administrator\source\repos\GrandCircus\LabThree\LabThree\bin\Debug\LabThree.exe
+C:\Users\Administrator\source\repos\GrandCircus\LabThree\LabThree\bin\Debug\LabThree.pdb
+C:\Users\Administrator\source\repos\GrandCircus\LabThree\LabThree\obj\Debug\LabThree.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\GrandCircus\LabThree\LabThree\obj\Debug\LabThree.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GrandCircus\LabThree\LabThree\obj\Debug\LabThree.exe
+C:\Users\Administrator\source\repos\GrandCircus\LabThree\LabThree\obj\Debug\LabThree.pdb
